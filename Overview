@@ -1,0 +1,3 @@
+This project is a Python-based application designed to improve road safety by detecting driver drowsiness in real-time using a webcam. It leverages computer vision and machine learning to monitor facial features and eye states, triggering an audible alarm if signs of drowsiness are detected.
+
+The system is robust, operating effectively in varied environmental conditions, and aims to reduce road accidents caused by driver fatigue.
